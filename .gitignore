@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Frontend environment variables
+frontend/pentagram/.env
+
+# Modal specific (if applicable)
+modal_cache/
+modal_log/
+
+# IDEs and editors
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Others
