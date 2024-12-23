@@ -1,8 +1,8 @@
-# Stable Diffusion Experiment
+# AI-Gram - Stable Diffusion Experiment
 
 ## Objective
 
-This project sets up a backend API using [Modal](https://modal.com/) that generates images from input text prompts using the `stabilityai/sdxl-turbo` model from [HuggingFace](https://huggingface.co/). The API is optimized for low latency and high-quality image generation leveraging an A10G GPU.
+This project sets up a backend API using [Modal](https://modal.com/) that generates images from input text prompts using the `stabilityai/sdxl-turbo` model from [HuggingFace](https://huggingface.co/). The API is optimized for low latency and high-quality image generation leveraging serverless Nvidia A10G GPUs.
 
 ## Features
 
