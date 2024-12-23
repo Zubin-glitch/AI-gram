@@ -16,7 +16,7 @@ This project sets up a backend API using [Modal](https://modal.com/) that genera
 
 ### Prerequisites
 
-- **Python 3.11.11** or higher
+- **Python 3.9** or higher
 - **Modal Account:** [Sign up](https://modal.com/) if you don’t have one.
 - **HuggingFace API Token:** [Get your token](https://huggingface.co/settings/tokens)
 - **Git:** Installed on your machine
